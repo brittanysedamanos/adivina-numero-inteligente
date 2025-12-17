@@ -1,0 +1,6 @@
+{
+    "dificultad": "experto", 
+    "max_valor": 500, 
+    "max_intentos": 25, 
+    "min_valor": 1
+}

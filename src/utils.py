@@ -13,9 +13,8 @@ def limpiar_pantalla():
     elif platform.system() == "Windows":
         os.system('cls')
     else:
-        print("\n" * 50)  # 50 lineas nuevas si no se detecta
+        print("\n" * 50)
 
 def pausar():
-    """Pausa la ejecucion hasta que el usuario presione ENTER."""
+    """Pausa la ejecucion."""
     raw_input("\nPresiona ENTER para continuar...")
-    
