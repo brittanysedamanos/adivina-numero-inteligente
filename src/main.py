@@ -2,8 +2,8 @@
 """
 PROYECTO FINAL: ADIVINA EL NUMERO - SISTEMA INTELIGENTE
 VERSION PROFESIONAL CON MENUS, NIVELES Y REINICIO
-AUTOR: [Tu Nombre]
-FECHA: [Fecha]
+ESTUDIANTE: Brittany Jhulisa Sedamanos Leon
+FECHA: 17 de diciembre de 2025
 """
 
 import juego
