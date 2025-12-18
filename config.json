@@ -1,0 +1,6 @@
+{
+    "dificultad": "normal", 
+    "max_valor": 100, 
+    "max_intentos": 15, 
+    "min_valor": 1
+}
