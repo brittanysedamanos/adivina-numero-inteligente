@@ -3,9 +3,13 @@ Adivina el Numero - Sistema Inteligente
 
 
 Estudiante
+
 Nombre: Brittany Jhulisa Sedamanos Leon
+
 Curso: Lógica de programación 1CIB-1A
+
 Fecha: 17 de diciembre de 2025
+
 Universidad: Universidad Internacional del Ecuador
 
 Caracteristicas Principales
